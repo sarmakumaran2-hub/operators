@@ -1,0 +1,10 @@
+name=input("enter your name ")
+age=input("enter your age ")
+marks1=int(input("enter marks1 "))
+marks2=int(input("enter marks2 "))
+marks3=int(input("enter marks3 "))
+marks4=int(input("enter marks4 "))
+marks5=int(input("enter marks5 "))
+total=(marks1+marks2+marks3+marks4+marks5)
+print("student name is ",name,"\nstudent age is ",age,"\nmarks1 :",marks1,"\nmarks2 :",marks2,"\nmarks3 :",marks3,"\nmarks4 :",marks4,"\nmarks5 :",marks5,
+"\ntotal marks :",total,"\naverage :",total/5)
