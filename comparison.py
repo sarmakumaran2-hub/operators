@@ -1,0 +1,8 @@
+x=input("num1 :")
+y=input("num2 :")
+print(x>y)
+print(x<y)
+print(x<=y)
+print(x>=y)
+print(x!=y)
+print(x==y)
